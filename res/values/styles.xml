@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme" parent="@android:style/Theme.Light" />
+    <style name="Transparent" parent="android:Theme">
+        <item name="android:theme">@android:style/Theme.Translucent.NoTitleBar.Fullscreen</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+</resources>
